@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="#">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Linuxinet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Linuxinet?tab=followers">
+  <a href="https://github.com/Faizee-Asad?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Linuxinet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://linuxinet.github.io/">
+  <a href="https://faizee-asad.github.io/">
     <img alt="Blog" title="Blog" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/></a>
 
 </p>
@@ -65,15 +65,15 @@ Here are some ideas to get you started:
 </a>
 
 
-<a href="https://github.com/Linuxinet/bugcrowd-crowdstream">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Linuxinet&repo=bugcrowd-crowdstream&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="" />
 </a>
 
-<a href="https://github.com/Linuxinet/BugcrowdVRT-Resources">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Linuxinet&repo=BugcrowdVRT-Resources&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="BugcrowdVRT-Resources" />
 </a>
 
-<a href="https://github.com/Linuxinet/GotrueBot">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Linuxinet&repo=GotrueBot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GotrueBot/" />
 </a>
 
@@ -82,36 +82,22 @@ Here are some ideas to get you started:
 <h2 align = "center"> 📉 GitHub Stats</h2>
 <div>
 <p align = "center">
-    <a href="https://github-readme-stats.vercel.app/api?username=Linuxinet&count_private=true&theme=algolia&show_icons=true&hide_border=true">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Linuxinet&count_private=true&theme=algolia&show_icons=true&hide_border=true"/>
+    <a href="#">
+        <img width="49%" alt="Stats" src="3"/>
     </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Linuxinet&theme=algolia&hide_border=true&date_format=%5BY%20%5DM%20j">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Linuxinet&theme=algolia&hide_border=true&date_format=%5BY%20%5DM%20j"/>
+    <a href="3">
+        <img width="49%" alt="Streak Stats" src="#"/>
     </a>
-    <a href="https://github-profile-trophy.vercel.app/?username=Linuxinet&row=4&column=7&theme=algolia&no-frame=true">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Linuxinet&row=4&column=7&theme=algolia&no-frame=true"/>
+    <a href="#">
+        <img width="98%" alt="Trophy" src="#"/>
     </a>    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linuxinet&hide_border=true&theme=algolia&layout=compact" align="center" width = "49%" />
+    <img src="#" align="center" width = "49%" />
 </p>
 </div>
 
 
 ## 📝 Blogs
 
-- Personal website and blog: https://linuxinet.github.io/
-- Use Frida in Rooted Android Without PC/laptop: https://linuxinet.github.io/posts/use-frida-in-android-without-pc/
+- Personal website and blog: https://faizee-asad.github.io/
 
 
-<div>
-<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
-<div>
-<p>
-<img src="https://c.tenor.com/O097AH2p5EEAAAAC/nakano-itsuki-go-toubun-no-hanayome.gif" align="right" />
-  
-<img src = "https://spotify-github-profile.vercel.app/api/view?uid=12174580645&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" align = "left" width="200px"/>
-   </p>
-  </div>
-<br> 
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Linuxinet&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
-<hr>
