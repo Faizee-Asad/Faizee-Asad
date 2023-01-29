@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 📫 &nbsp;How to reach me: [Faizee](https://twitter.com/faizee_asad)
 - 👯 &nbsp;I’m looking to collaborate on <b>Bughunting.</b>
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and **Anime**
+- ⚡ &nbsp;Fun fact: I :heart: 🐱:s and **Anime**
 
 
 <!-- Social icons section -->
