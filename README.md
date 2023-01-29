@@ -40,14 +40,14 @@ Here are some ideas to get you started:
 <p align="left">
   🔗 &nbsp;<b>Connect with me</b>
 <p align="left">
-<a href="https://twitter.com/R007_BR34K3R" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vinay-kumar-rasala-b79b331a7" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/faizee_asad" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/faizee-asad-566341200" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 
 <br/>
 
 <p align="left">
-<a href="https://github.com/Linuxinet?tab=repositories&sort=stargazers">
+<a href="#">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/Linuxinet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Linuxinet?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Linuxinet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Linuxinet/Kyuubi">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Linuxinet&repo=Kyuubi&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Kyuubi" />
 </a>
 
