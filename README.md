@@ -56,30 +56,6 @@ Here are some ideas to get you started:
 
 </p>
 
-
-
-## 🗂️ Highlight Projects
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Linuxinet&repo=Kyuubi&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Kyuubi" />
-</a>
-
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Linuxinet&repo=bugcrowd-crowdstream&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="" />
-</a>
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Linuxinet&repo=BugcrowdVRT-Resources&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="BugcrowdVRT-Resources" />
-</a>
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Linuxinet&repo=GotrueBot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GotrueBot/" />
-</a>
-
-
-
-
 ## 📝 Blogs
 
 - Personal website and blog: #
