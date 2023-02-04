@@ -79,25 +79,9 @@ Here are some ideas to get you started:
 
 
 
-<h2 align = "center"> 📉 GitHub Stats</h2>
-<div>
-<p align = "center">
-    <a href="#">
-        <img width="49%" alt="Stats" src="3"/>
-    </a>
-    <a href="3">
-        <img width="49%" alt="Streak Stats" src="#"/>
-    </a>
-    <a href="#">
-        <img width="98%" alt="Trophy" src="#"/>
-    </a>    
-    <img src="#" align="center" width = "49%" />
-</p>
-</div>
-
 
 ## 📝 Blogs
 
-- Personal website and blog: https://faizee-asad.github.io/
+- Personal website and blog: #
 
 
